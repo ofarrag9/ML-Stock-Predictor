@@ -4,6 +4,9 @@
 ## Overview
 The Stock Market Predictor is a web-based application designed to forecast stock prices using a pre-trained machine learning model. It provides an interactive interface for users to visualize historical stock data, moving averages, and predicted prices. Built with Streamlit, the application offers an intuitive way for users to enter stock symbols and analyze stock performance over time.
 
+## Image Demo
+This is an image of what the website outputs: [Demo Image](/Image-Demo)
+
 ## Features
 - **Stock Symbol Input**: Users can input any stock symbol to fetch historical data and predictions.
 - **Historical Stock Data Visualization**: Displays the stock's historical closing prices.
