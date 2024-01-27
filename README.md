@@ -29,8 +29,8 @@ pip install numpy pandas yfinance keras streamlit matplotlib scikit-learn
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-repository/stock-market-predictor.git
-cd stock-market-predictor
+git clone https://github.com/ofarrag9/ML-Stock_Predictor.git
+cd ML-Stock_Predictor
 ```
 
 ## Usage
