@@ -33,7 +33,7 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/ofarrag9/ML-Stock_Predictor.git
-cd ML-Stock_Predictor
+cd ML-Stock-Predictor
 ```
 
 ## Usage
