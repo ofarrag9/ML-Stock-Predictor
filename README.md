@@ -54,6 +54,4 @@ streamlit run app.py
 
 4. Enter a stock symbol and analyze the historical data, moving averages, and predicted prices.
 
-## Model Information
-The stock price predictions are made using a pre-trained neural network model. The model was trained on historical stock data, incorporating features like closing prices and moving averages to forecast future stock prices.
 
